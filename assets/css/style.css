@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1{
+  color: #ffffff;
+  text-align: center;
+  width: 100%;
+  height: 59px;
+  font-weight: 500px;
+}
+h2 {
+  color: #ffffff;
+  text-align: center;
+  width: 100%;
+  height: 47px;
+  font-weight: 500px;
+}
+
+.iguanabg {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 1;
+}
+
+.infon {
+  text-align: center;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  padding: 120px 0;
+  white-space: nowrap;
+}
+
+.info {
+  text-align: center;
+  background: #1E1A13;
+  color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 74px;
+  white-space: nowrap;
+  height: auto;
+}
+
+.col-3 {
+  width: 33%;
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 0 20px;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}
+
+.desc-texto {
+  width: 60%;
+  vertical-align: middle;
+  white-space: normal;
+  display: inline-block;
+  float: left;
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: 0 20px;
+}
+
+.desc-texto p {
+  text-align: left;
+  font-size: 16px;
+  color: #ffffff;
+  opacity: 1;
+  width: 70%;
+  vertical-align: middle;
+}
+
+.imagen1 {
+  width: 399px;
+  height: 237px;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
+}
+
+.imagen2 {
+  width: 316px;
+  height: 202px;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
+}
+
+.centrado {
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.centrado i {
+    font-size: 57px;
+    background: #ffffff;
+}
+
+.col-3 i {
+  font-size: 57px;
+  background: #1E1A13;
+  color: white;
+  width: 50%;
+  margin: auto;
+}
+
+.footer, p {
+  font-size: 20px;
+  font-weight: 300;
+  color: #ffffff;
+  opacity: 1;
+  margin: auto;
+  text-align: center;
+}
+
+footer {
+  /*bottom: 0px;
+  width: 100%;
+  height: 102px;
+  */
+    padding: 30px;
+    background: #1E1A13;
+}
